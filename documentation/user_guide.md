@@ -51,7 +51,7 @@ automatic annotation using deep learning models,shortcuts for most of critical a
 ### Creating an annotation task
 
 1.  Create an annotation task pressing `Create new task` button on the main page.
-    ![](static/documentation/images/image004.jpg)
+    ![](images/image004.jpg)
 
 1.  Specify parameters of the task:
 
