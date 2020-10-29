@@ -6,4 +6,4 @@ Now, WALT supported function that annotate image with manual, semi-automatic and
 
 This is user guide for WALT(Withsystem AI Labeling Tool) that label vision image automatically  based on AI algorithm.
 
-- [User's guide](User_Guide_For_WALT/documentation/user_guide.md)
+- [User's guide](https://github.com/charlescho64/User_Guide_For_WALT/tree/main/documentation/user_guide.md)
