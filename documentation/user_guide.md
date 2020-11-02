@@ -48,6 +48,16 @@ Withsystem AI Labeling Tool (WALT) is a web-based tool which helps to annotate v
 to develo AI model and service prototype. WALT has many powerful features: _interpolation of bounding boxes between key frames, 
 automatic annotation using deep learning models,shortcuts for most of critical actions, dashboard with a list of annotation tasks, etc...
 
+
+## Getting started
+
+### Authorization
+
+- First of all, you have to log in to CVAT tool.
+
+  ![](images/image001.jpg)
+
+
 ### Creating an annotation task
 
 1.  Create an annotation task pressing `Create new task` button on the main page.
