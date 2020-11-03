@@ -2,7 +2,7 @@
   - [Getting started](#getting-started)
     - [Authorization](#authorization)
     - [Creating an annotation task](#creating-an-annotation-task)
-    - [Models](#models-&-User-Models)
+    - [AI Models](#AI-Models)
     - [Search](#search)
   - [Interface of the annotation tool](#interface-of-the-annotation-tool)
     - [Basic navigation](#basic-navigation)
@@ -264,7 +264,7 @@ automatic annotation using deep learning models,shortcuts for most of critical a
 
     ![](images/image007_detrac.jpg)
 
-### Models & User Models
+### AI Models
 
 The Models page contains a list of deep learning (DL) models deployed for semi-automatic and automatic annotation.
 To open the Models page, click the Models button on the navigation bar.
