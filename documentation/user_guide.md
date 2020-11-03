@@ -2,7 +2,7 @@
   - [Getting started](#getting-started)
     - [Authorization](#authorization)
     - [Creating an annotation task](#creating-an-annotation-task)
-    - [Models](#models & User Models)
+    - [Models](#models-&-User-Models)
     - [Search](#search)
   - [Interface of the annotation tool](#interface-of-the-annotation-tool)
     - [Basic navigation](#basic-navigation)
