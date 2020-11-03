@@ -389,8 +389,6 @@ Usage examples:
 
       ![](images/image011_detrac.jpg)
 
-    - To learn about creating a rectangle using the by 4 point drawing method, ([read here](#annotation-by-rectangle-4-points)).
-
     - It is possible to adjust boundaries and location of the rectangle using a mouse.
       Rectangle's size is shown in the top right corner , you can check it by clicking on any point of the shape.
       You can also undo your actions using `Ctrl+Z` and redo them with `Shift+Ctrl+Z` or `Ctrl+Y`.
