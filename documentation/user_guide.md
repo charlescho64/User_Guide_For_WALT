@@ -1018,7 +1018,7 @@ in the workspace tab and set the value Attribute annotation mode (AAM) zoom marg
 
 The tool is designed for semi-automatic and automatic annotation using DL models.
 The tool is available only if there is a corresponding model.
-For more details about DL models read the [Models](#models) section.
+For more details about DL models read the [Models](#AI-Models) section.
 
 ### Interactors
 
@@ -1485,22 +1485,6 @@ entered filters will open. Click on the filters to add them to the input field.
 Combined filters occur with the "or" operator.
 
 ---
-
-## Analytics
-
-If your CVAT instance was created with analytics support, you can press the `Analytics` button in the dashboard
-and analytics and journals will be opened in a new tab.
-
-![](images/image113.jpg)
-
-The analytics allows you to see how much time every user spends on each task
-and how much work they did over any time range.
-
-![](images/image097.jpg)
-
-It also has an activity graph which can be modified with a number of users shown and a timeframe.
-
-![](images/image096.jpg)
 
 ## Shortcuts
 
