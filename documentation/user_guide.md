@@ -268,7 +268,7 @@ automatic annotation using deep learning models,shortcuts for most of critical a
 
 The Models pages are three, which are serverless model page, built-in backbone model page and custom model page. The Models page contains a list of deep learning (DL) models deployed for semi-automatic and automatic annotation. If user have image data for special service, user use walt to annotate and label data and then train user AI model with built-in backbone model and serverless model. User can create AI model by self.
 
-![](images/image099.jpg)
+![](images/image099-top.jpg)
 
 #### Serverless Models
 
@@ -299,7 +299,7 @@ The list of models is presented in the form of a table for bounding box and inst
   - `Custom Model Common Settings` - used for score threshold and minimal object size of detected object in both bounding box and instance segmentation([automatic annotation](#automatic-annotation)
   - `Custom Model Specific Settings` - used for the line point simplication of detected object in only instance segmentation([automatic annotation](#automatic-annotation)
 
-
+![](images/image099-backbone.jpg)
 
 #### Custom Models
 
