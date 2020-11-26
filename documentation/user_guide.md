@@ -51,7 +51,7 @@ automatic annotation using deep learning models,shortcuts for most of critical a
 
 ### Authorization
 
-- First of all, you have to send the request message to WALT's manager(charlescho64@gmail.com).
+- First of all, you have to send the request message to WALT's manager(help.about.walt@gmail.com).
 
 ### Creating an annotation task
 
