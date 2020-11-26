@@ -268,6 +268,10 @@ automatic annotation using deep learning models,shortcuts for most of critical a
 
 The Models pages are three, which are serverless model page, built-in backbone model page and custom model page. The Models page contains a list of deep learning (DL) models deployed for semi-automatic and automatic annotation. If user have image data for special service, user use walt to annotate and label data and then train user AI model with built-in backbone model and serverless model. User can create AI model by self.
 
+- `Serverless Models`
+- `Built-in Backbone Models`
+- `Custom Model`
+
 ![](images/image099-top.jpg)
 
 #### Serverless Models
