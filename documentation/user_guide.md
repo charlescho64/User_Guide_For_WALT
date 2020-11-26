@@ -266,8 +266,13 @@ automatic annotation using deep learning models,shortcuts for most of critical a
 
 ### AI Models
 
-The Models page contains a list of deep learning (DL) models deployed for semi-automatic and automatic annotation.
-To open the Models page, click the Models button on the navigation bar.
+The Models pages are three, which are serverless model page, built-in backbone model page and custom model page. The Models page contains a list of deep learning (DL) models deployed for semi-automatic and automatic annotation. If user have image data for special service, user use walt to annotate and label data and then train user AI model with built-in backbone model and serverless model. User can create AI model by self.
+
+![](images/image099.jpg)
+
+#### Serverless Models
+
+To open serverless model page, click the Serverless Models button on the navigation bar.
 The list of models is presented in the form of a table. The parameters indicated for each model are the following:
 
 - `Framework` the model is based on
@@ -281,6 +286,26 @@ The list of models is presented in the form of a table. The parameters indicated
 - `Labels` - list of the supported labels (only for the models of the `detectors` type)
 
 ![](images/image099.jpg)
+
+
+#### Bult-in Backbone Models
+
+To open built-in model page, click the Built-in Backbone Models button on the navigation bar.
+The list of models is presented in the form of a table for bounding box and instance segmentate. The parameters indicated for each model are the following:
+
+- model `Name`
+- `Labels` - list of the supported labels (only for the models of the `detectors` type and [automatic annotation](#automatic-annotation)
+- `Custom Model Settiongs` :
+  - `Custom Model Common Settings` - used for score threshold and minimal object size of detected object in both bounding box and instance segmentation([automatic annotation](#automatic-annotation)
+  - `Custom Model Specific Settings` - used for the line point simplication of detected object in only instance segmentation([automatic annotation](#automatic-annotation)
+
+
+
+#### Custom Models
+
+
+UNDER DEVELOPMENT
+
 
 
 ### Search
