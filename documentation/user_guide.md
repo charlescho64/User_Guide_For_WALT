@@ -301,9 +301,14 @@ The list of models is presented in the form of a table for bounding box and inst
   - `Custom Model Common Settings` : 
     - `Score Threshold` - the used model have confidence(uint %) threshold for detecting object and then show the object with over threshold 
     - `Minimal Object Size` - the used model have minimal object size(diagonal pixel size) of detected object in both bounding box and instance segmentation and then show the object with over minimal object size
+    
   ![](images/image099-backbone-set1.jpg)
   
-  - `Custom Model Specific Settings` - used for the line point simplication of detected object in only instance segmentation
+  - `Custom Model Specific Settings` - used for the line point simplication of detected object in only instance segmentation.
+    - `Range of Small Size` - is object's threshold for line simplication and have pixel unit 
+    - `Small Size of Line Simplication Value` - is simplication coefficient for object below range of small size. This setting value is smaller and polygon points are much. 
+    - `Large Size of Line Simplication Value` - is simplication coefficient for object above range of small size. This setting value is smaller and polygon points are much. 
+    
   ![](images/image099-backbone-set2.jpg)
 
 #### Custom Models
