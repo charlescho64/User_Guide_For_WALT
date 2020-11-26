@@ -298,7 +298,9 @@ The list of models is presented in the form of a table for bounding box and inst
 - model `Name`
 - `Labels` - list of the supported labels (only for the models of the `detectors` type and [automatic annotation](#automatic-annotation)
 - `Custom Model Settiongs` :
-  - `Custom Model Common Settings` - used for score threshold(unit %)and minimal object size(diagonal pixel size) of detected object in both bounding box and instance segmentation
+  - `Custom Model Common Settings` : 
+   - `Score Threshold` - the used model have confidence(uint %) threshold for detecting object and then show the object with over threshold 
+   - `Minimal Object Size` - the used model have minimal object size(diagonal pixel size) of detected object in both bounding box and instance segmentation and then show the object with over minimal object size
   ![](images/image099-backbone-set1.jpg)
   
   - `Custom Model Specific Settings` - used for the line point simplication of detected object in only instance segmentation
