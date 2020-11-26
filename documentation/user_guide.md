@@ -36,7 +36,6 @@
   - [Automatic annotation](#automatic-annotation)
   - [Shape grouping](#shape-grouping)
   - [Filter](#filter)
-  - [Analytics](#analytics)
   - [Shortcuts](#shortcuts)
   
   
